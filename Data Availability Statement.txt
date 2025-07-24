@@ -1,0 +1,6 @@
+Data Availability Statement: The original data presented in the study are openly available 
+in the following publicly accessible repositories: (1) COCO2017 dataset: https://aistu
+dio.baidu.com/datasetdetail/103218(accessed on 20 March 2025) （2）NWPU VHR-10 da
+taset: https://aistudio.baidu.com/datasetdetail/64213 (accessed on 20 March 2025) (3) 
+GC10-DETdataset: https://github.com/lvxiaoming2019/GC10-DET-Metallic-Surface-De
+fect-Datasets (accessed on 20 May 2025). 
